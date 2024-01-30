@@ -12,7 +12,10 @@ cherry: write a short blog on engineering ;
 
 demo screenshots 
 
+# demo 1
+
 <img src="./slack.gif" width=800 height=500 />
 
+# demo 2 
 <img src="./medium.gif" width=800 height=500 />
 
