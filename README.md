@@ -19,3 +19,6 @@ demo screenshots
 # demo 2 
 <img src="./medium.gif" width=800 height=500 />
 
+# demo 3 
+<img src="./github.gif" width=800 height=500 />
+
