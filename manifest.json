@@ -1,0 +1,21 @@
+{
+  "name": "Cherry : Powered by chatGPT",
+  "description": "Use the power of ChatGPT at your fingertips, The butler will serve its master.",
+  "author": "Jigyasa Upadhyay",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": [""],
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "runAt": "document_end",
+      "js": ["script.js"],
+      "all_frames": true
+    }
+  ]
+}
