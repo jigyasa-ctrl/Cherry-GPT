@@ -1,4 +1,4 @@
-# cherry-gpt
+# cherry-GPT
 Cherry - AI chrome assistant powered by chatGPT
 
 Cherry is your personal AI based chrome extension that will assist you while typing in the current active tab.
